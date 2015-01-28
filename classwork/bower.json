@@ -1,0 +1,16 @@
+{
+  "name": "classwork",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexhidalgo/Day-16",
+  "authors": [
+    "Alex Hidalgo <aj1hidalgo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

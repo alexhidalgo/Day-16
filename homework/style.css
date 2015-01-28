@@ -1,0 +1,29 @@
+.result-contain {
+	text-align: center;
+}
+
+table {
+	text-align: left;
+}
+
+#watch-list {
+	display: inline-block;
+	width: 45%;
+	height: 200px;
+	background-color: yellow;
+
+}
+
+#table-data {
+	display: inline-block;
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+
+#watched-list {
+	width: 45%;
+	height: 200px;
+	background-color: blue;
+}
+
