@@ -8,22 +8,21 @@ table {
 
 #watch-list {
 	display: inline-block;
-	width: 45%;
-	height: 200px;
+	width: 100%;
+	height: 270px;
 	background-color: yellow;
-
 }
 
 #table-data {
 	display: inline-block;
-	width: 50%;
-	height: 200px;
+	width: 100%;
+	height: 270px;
 	background-color: green;
 }
 
 #watched-list {
-	width: 45%;
-	height: 200px;
+	width: 100%;
+	height: 270px;
 	background-color: blue;
 }
 
